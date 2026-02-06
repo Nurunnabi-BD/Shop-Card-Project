@@ -30,7 +30,7 @@ This project is perfect for portfolio display and frontend practice.
 
 ## 📸 Screenshots
 
-![first ss](Screenshot_1) ![second ss](Screenshot_2)
+![first ss](Screenshot_1.png) ![second ss](Screenshot_2.png)
 ---
 
 ## 📦 Installation & Setup
