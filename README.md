@@ -77,7 +77,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 🎓 CSE Student  
 💻 Aspiring Software Engineer
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Nurunnabi-BD
 
 ---
 
