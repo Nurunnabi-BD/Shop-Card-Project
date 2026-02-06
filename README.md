@@ -1,16 +1,92 @@
-# React + Vite
+# 🛍️ Shop Card Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Demo:** https://shop-card-project-tau.vercel.app/
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 About The Project
 
-## React Compiler
+**Shop Card Project** is a modern e-commerce web application that showcases products in a clean, responsive, and interactive card layout. It focuses on frontend design, user-friendly interface, and basic cart functionality.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is perfect for portfolio display and frontend practice.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- Responsive product card layout
+- Modern and clean UI design
+- Interactive product selection
+- Hosted live on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React JS, Tailwind CSS, HTML, CSS, JavaScript
+- **Deployment:** Vercel
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots of your live project here for better portfolio presentation)*
+
+---
+
+## 📦 Installation & Setup
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to the project folder
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+
+---
+
+## 📂 Project Structure
+
+```
+📦 project-root
+ ┣ 📂 src
+ ┃ ┣ 📂 components
+ ┃ ┣ 📂 assets
+ ┃ ┣ App.jsx
+ ┃ ┗ main.jsx
+ ┣ 📂 public
+ ┗ package.json
+```
+
+---
+
+## 👨‍💻 Author
+
+**Nurun Nabi**  
+🎓 CSE Student  
+💻 Aspiring Software Engineer
+
+- GitHub: https://github.com/your-username
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning and personal projects.
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to open-source UI inspirations, tutorials, and libraries used in this project.
